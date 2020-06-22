@@ -6,8 +6,8 @@ permalink: /about/
 
 Hello, I'm Reid!  Welcome to my inconspicuous corner of the vast internet expanse.  Hope you stay for awhile, kick your feet up, and let your troubles wash away.  If you haven't already noticed, I use two spaces after periods in between sentences.  If you feel strongly otherwise, now's a good time to leave...
 
-I'm from Seattle, Washington.  Well not *Seattle* Seattle.  No one's from Seattle, although everyone who lives in 100 miles of the city claims to be.  Like all good Pacific Northwesterns, I love being outside.  In 2019, I hiked 2,653 miles from Mexico to Canada up the west coast of the United States along the Pacific Crest Trail.  I com In the winter months, I'm chasing snow storms
+I'm from Seattle, Washington.  Well not *Seattle* Seattle.  No one's from Seattle, although everyone who lives in 100 miles of the city claims to be.  Like all good Pacific Northwesterns, I love being outside.  In 2019, I hiked 2,653 miles from Mexico to Canada up the west coast of the United States along the Pacific Crest Trail.  I completed the trek in 136 days and walked an average of 19 miles per day. In the winter months, I'm chasing snow storms
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTc1NDA4MCwtNDg0MDcyMjA4XX0=
+eyJoaXN0b3J5IjpbMTEwNDk4MTAxOCwtNDg0MDcyMjA4XX0=
 -->
