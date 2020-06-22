@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I'm Reid! Welcome to my inconspicuous corner of the vast internet expanse.  Hope you stay for awhile, you know, kick your feet up,
+Hello, I'm Reid! Welcome to my inconspicuous corner of the vast internet expanse.  Hope you stay for awhile, kick your feet up,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDQ3NDc3NywtNDg0MDcyMjA4XX0=
+eyJoaXN0b3J5IjpbLTE5MDA4NTIyMjIsLTQ4NDA3MjIwOF19
 -->
