@@ -6,8 +6,8 @@ permalink: /about/
 
 Hello, I'm Reid!  Welcome to my inconspicuous corner of the vast internet expanse.  Hope you stay for awhile, kick your feet up, and let your troubles wash away.  If you haven't already noticed, I use two spaces after periods in between sentences.  If you feel strongly about having only a single space between the end of the previous sentence and the beginning of the next, now's a good time to leave...
 
-I'm from Seattle, Washington.  Well not *Seattle* Seattle.  No one's from Seattle, although everyone who lives in 100 miles of the city claims to be.  I'm a 
+I'm from Seattle, Washington.  Well not *Seattle* Seattle.  No one's from Seattle, although everyone who lives in 100 miles of the city claims to be.  Being from the P
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDE1NDc5OCwtNDg0MDcyMjA4XX0=
+eyJoaXN0b3J5IjpbMTc1NzczNTk5MCwtNDg0MDcyMjA4XX0=
 -->
