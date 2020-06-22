@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Reid! elcome over to my inconspicuous corner of the great vast expanse known as the internet.
+Hi, I'm Reid! Welcome over to my inconspicuous corner of the vast internet expanse.  Hope you stay for awhile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDI1MDY5MCwtNDg0MDcyMjA4XX0=
+eyJoaXN0b3J5IjpbMzY3MTQ3OTczLC00ODQwNzIyMDhdfQ==
 -->
