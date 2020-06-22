@@ -14,7 +14,7 @@ Lists
 
 Lists are a one of the necessary evils of the software development world.  No, I'm not necessarily talking about the `list` data structure common across basically every programming language.  The lists I'm talking about are hardcoded, static values pertinent directly to the domain you work in. They might look something like this:
 
-{% highlight python %}
+```python
 osVersions = {
                "iPhone": "iPhone OS 1.0",
                "iPhone 3G": "iPhone OS 2.0",
@@ -23,7 +23,7 @@ osVersions = {
                "iPhone 4s": "iOS 5.0",
                "iPhone 5":  "iOS 6.0",
              }
-{% endhighlight %}
+```
 
 Obviously, Apple's going to continue making new iPhones and thus, this list will constantly grow.  Sure, adding a new entry when `iPhone 5c` comes out isn't a monumental effort, but becomes a problem when you have numerous of these lists scattered throughout the codebase.  The developer responsible for `iPhone 5c` must locate, understand, change, and test each list that requires adding the new phone version.  This is guaranteed work for every new phone version.  Furthermore, if the developer misses one of these lists, it might not be immediately obvious what's wrong leading to more wasted time debugging non-issues.
 
@@ -52,12 +52,10 @@ years-in-the-future-until-the-end-of-time-or-forever-hold-your-peace-amen should
 If so, then default branch cases are for you.  Otherwise, it might be a better idea to be explicit.
 Let me throw another example at ya:
 
-{% highlight python %}
-
+```python
 def amIDan():
    return name == "Dan"
-
-{% endhighlight %}
+```
 
 
 Then, someone named Daniel who goes by Dan comes along...
@@ -96,5 +94,5 @@ Plugins
 =======
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMTMwMjIzXX0=
+eyJoaXN0b3J5IjpbLTEzMTQ3NDQ5NDFdfQ==
 -->
