@@ -8,9 +8,9 @@ Hello, I'm Reid!  Welcome to my inconspicuous corner of the vast internet expans
 
 I'm from Seattle, Washington.  Well not *Seattle* Seattle.  No one's from Seattle, although everyone who lives in 100 miles of the city claims to be.  Like all good Pacific Northwesterns, I love being outside.  In 2019, I hiked 2,653 miles from Mexico to Canada up the west coast of the United States along the Pacific Crest Trail.  I completed the trek in 136 days and walked an average of 19 miles per day.  Since then, I've been chasing snow storms in the winter months to fuel my powder addiction while planning my next adventure (CDT 2020 anyone?).
 
-When I'm not sleeping in a tent on the ground (for fun), I'm staring at a screen.  I'm a lead software engineer at Arista Networks building the world's most resilient enterprise networking equipment.  I have a love-hate relationship with software.  I hate being sedentary for long periods of time but love problem solving and building things.  Maybe I just need to buy myself a 
+When I'm not sleeping in a tent on the ground (for fun), I'm staring at a screen.  I'm a lead software engineer at Arista Networks building the world's most resilient enterprise networking equipment.  I have a love-hate relationship with software.  I hate being sedentary for long periods of time but love problem solving and building things.  Maybe I just need to buy myself a treadmill desk.
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTEwNTM3MCw2NzEwNjU2NDksLTQ4ND
-A3MjIwOF19
+eyJoaXN0b3J5IjpbNjU1MTIxODY3LDY3MTA2NTY0OSwtNDg0MD
+cyMjA4XX0=
 -->
