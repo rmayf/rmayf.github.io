@@ -60,25 +60,21 @@ def amIDan():
 
 Then, someone named Daniel who goes by Dan comes along...
 
-
+```python
 def amIDan():
    return name in ( "Dan", "Daniel" )
-
-{% endhighlight %}
+```
 
 Then, somene named Danny who goes by Dan comes along...
 
-{% highlight python %}
-
+```python
 def amIDan():
    return name.startswith( "Dan" )
-
-{% endhighlight %}
+```
 
 Uh-oh, Danielle's around the world are complaining about receiving emails to join the Dan-Fan club
 
-{% highlight python %}
-
+```python
 def amIDan():
    if name.startswith( "Danielle" ):
       print "
@@ -86,12 +82,11 @@ def amIDan():
    else:
       return name.startswith( "Dan" )
    return name.startswith( "Dan" )
-
-{% endhighlight %}
+```
  
 Plugins
 =======
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTA5Njc3NV19
+eyJoaXN0b3J5IjpbMzI5OTgyNjU0XX0=
 -->
