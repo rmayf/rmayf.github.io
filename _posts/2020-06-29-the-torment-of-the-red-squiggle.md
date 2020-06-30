@@ -2,6 +2,7 @@
 layout: post
 title:  "The Torment of the Red Squiggle"
 date:   2020-06-29
+status: WIP
 categories: jekyll update
 --- 
 
@@ -14,5 +15,6 @@ Sometimes I find it annoying to have spell check enable while I'm writing.  It's
 
 ~Reid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjc5NzczMCwtNTAyODYyNTQ4XX0=
+eyJoaXN0b3J5IjpbLTE5MjIwOTA3NDYsLTgxNjc5NzczMCwtNT
+AyODYyNTQ4XX0=
 -->
