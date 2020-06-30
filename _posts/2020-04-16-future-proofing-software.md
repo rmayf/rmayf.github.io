@@ -2,12 +2,9 @@
 layout: post
 title:  "Future Proofing Software"
 date:   2020-04-16 20:27:20 -0700
+status: WIP
 categories: jekyll update
 ---
-
----
- Status: Work In Progress
- ---
 
 
 Unfourtunantly, no one can predict the future.  However, there are certain measures an experienced software craftsman can take in order to make software easier to flex to match changing requirements and new features.  These patterns I've picked up on during my millions of hours looking over code and now stick out to me like a sore thumb.  Once you adjust your code radar to detect these anti-patterns, you'll see just how big of a differnce it makes fixing them *before* they become a problem.  Initially they might not seem like a horrible idea, but viewed through the lense of 10, 20 years of addition, it becomes a maintenance nightmare.
@@ -95,6 +92,6 @@ Plugins
 Sorry this content doesn't exist yet! Maybe one day rmayf will get around to expanding upon it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk4ODQ1ODEsODM3NDYxMzY0LDMyOT
-k4MjY1NF19
+eyJoaXN0b3J5IjpbLTU4ODMwNzYxMiw4Mzc0NjEzNjQsMzI5OT
+gyNjU0XX0=
 -->
