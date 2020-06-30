@@ -6,8 +6,9 @@ status: Need to edit
 categories: jekyll update
 ---
 
-# Status
+```
 This post is still a draft, reader beware!
+```
 
 Unfourtunantly, no one can predict the future.  However, there are certain measures an experienced software craftsman can take in order to make software easier to flex to match changing requirements and new features.  These patterns I've picked up on during my millions of hours looking over code and now stick out to me like a sore thumb.  Once you adjust your code radar to detect these anti-patterns, you'll see just how big of a differnce it makes fixing them *before* they become a problem.  Initially they might not seem like a horrible idea, but viewed through the lense of 10, 20 years of addition, it becomes a maintenance nightmare.
 
@@ -94,6 +95,6 @@ Plugins
 Sorry this content doesn't exist yet! Maybe one day rmayf will get around to expanding upon it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODg4ODgyLDgzNzQ2MTM2NCwzMjk5OD
-I2NTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NzQwMTk2NTUsMTgyODg4ODgyLDgzNz
+Q2MTM2NCwzMjk5ODI2NTRdfQ==
 -->
