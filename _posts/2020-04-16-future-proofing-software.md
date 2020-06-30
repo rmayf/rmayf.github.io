@@ -4,6 +4,7 @@ title:  "Future Proofing Software"
 date:   2020-04-16 20:27:20 -0700
 categories: jekyll update
 ---
+
 ---
  Status: Work In Progress
  ---
@@ -94,6 +95,6 @@ Plugins
 Sorry this content doesn't exist yet! Maybe one day rmayf will get around to expanding upon it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTg4MTE2MSw4Mzc0NjEzNjQsMzI5OT
-gyNjU0XX0=
+eyJoaXN0b3J5IjpbLTE0MTk4ODQ1ODEsODM3NDYxMzY0LDMyOT
+k4MjY1NF19
 -->
