@@ -16,7 +16,7 @@ There are a few tents setup around the lake so we don't say much. The camera shu
 
 Back in the car, we catch up on lost sleep, banana bread, and talk of time travel.  It's onwards to the next adventure, we take turns driving to Weaverville.  I hope the cooler ice keeps while we're gone.  How good is a frosty beer going to taste after a long hike?  Only time can tell.  
 
-The next day we're not alone as we stop to fill up on water from Luella Lake.  Hundreds of ink black tadpoles wiggling their way through life dot the lakebed.  We've completed over half the 20 mile journey around the Four Lakes Loop in Shasta-Trinity National Forest and now making homeward progress.  There's another group of four swimming on the other shore.  The bravest reports to the others on water temperature. I don't want to step on our amphibious friends.  
+The next day we're not alone as we stop to fill up on water from Luella Lake.  Hundreds of ink black tadpoles wiggling their way through life dot the lakebed.  We've completed over half the 20 mile journey around the Four Lakes Loop in Shasta-Trinity National Forest and now making homeward progress.  There's another group of four swimming on the other shore.  The bravest reports to the others on water temperature. I for one don't want to step on our amphibious friends.  
 
 I do swim in Deer Lake, the next and final lake in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.  
 
@@ -25,5 +25,6 @@ Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I 
 ~Reid
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTUzNjA4NjMsLTEwMjU1OTU1N119
+eyJoaXN0b3J5IjpbNTMyMjM3NjQ4LC0xNzE1MzYwODYzLC0xMD
+I1NTk1NTddfQ==
 -->
