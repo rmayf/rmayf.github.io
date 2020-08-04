@@ -6,8 +6,6 @@ status: WIP
 categories: jekyll update
 --- 
 
----
-
 ![alt text1][deer]
 ![alt text][shasta]
 ![alt text2][deer lake]
@@ -42,6 +40,6 @@ Monday comes sooner than I can unpack.  The weekend is a blur and a sunburn and 
 
 [deer lake]: https://lh3.googleusercontent.com/4FPVZljs56u9qEe3KJ90cgj3COWahVkkuWNSSrSCyQ764vXQCFPHrmbm7PE009e_479SwbV5Ovebs72ibLdbU7uGYTx1ahIGuuNMAYAhnxbivYUvoUwrUD7JYjnZMs24WVC8yUP2LjBZrwubXbOn1x5EcGjQAQvPkw9NQXSS8E6kjMxszOxtnoyvGBzr3iADhB5gH0MC5FdaGSnPASms3PTLdhSUY7u2rdw0zSP-3yqExzZ_HwxiIRVxm5mjtyvb3CMeBKusHl_Jpkh39wkHLieIWTdDQHzIqhSH_m5gXvbVEWBCz7kIJsMi3DfcBLe8uKIeOlzRcqt6oRo6bnVd6JRIdYbShcdXOSU-uk-h7lV-HhhToFjdMD26V_f6zikA4XiLIpK5hJusBKB441iAfaBBtM5_3mf2qc3mgdh9peLgY8qt6NqCsEnxeQlcFA2K1hZY5RzDXIP--0C_0SzjCAcKzQC_ETud5lL4y9enQWyMcMj9AvfX58DhyYp4fPKst7ugxPlFgpdYOPEvuS0BcJfJVmb23WwbUsXGyIIi3sHBHRKsFDR5kle3cqAen9sh22JN5_KbMpNb1LX46qEx_g13VVZ8Sqqns0s84PGeXnqiTYbznImW6WQjF9w_uJFWMatvyx41AIAwurnAubEbx71jOFIybr0_j-Vk7VxjbK-n7E_40glJG6RsqrNn=w1990-h1492-no?authuser=0 "Deer Lake"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMjY3MTk5LDExNzQzNDE1NzQsMTA0Nj
-A3NjY3NSwtMTcxNTM2MDg2MywtMTAyNTU5NTU3XX0=
+eyJoaXN0b3J5IjpbLTE5ODk5MTY1MjQsMTE3NDM0MTU3NCwxMD
+Q2MDc2Njc1LC0xNzE1MzYwODYzLC0xMDI1NTk1NTddfQ==
 -->
