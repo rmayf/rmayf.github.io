@@ -12,6 +12,8 @@ It's a short, uncomfortable night crumpled in the back of the CR-V. I'm obliviou
 
 We race the sun up 2 miles from Castle Lake to Heart Lake.  The trail is well traveled but splinters into parallel side routes.  A few wrong turns but we make it in time. Sierra goes to work scoping out the location and unfurling her tripod. Bugs flit along the lake surface, rippling communication in some language I don't understand.  Shasta, the second monolith of the Cascades, bathed in pink light of the new day.  Big thoughts for a big mountain.
 
+![alt text][logo]
+
 There are a few tents setup around the lake so we don't say much. The camera shutter clicks in short bursts.  A deer materializes out of the nearby brush and is surprised when it notices us; as if it wasn't expecting anyone else to be awake.  It poses for a few shots and carries on foraging for breakfast. I find a luffa discarded on the lake shore and ponder the morality of mankind.
 
 Back in the car, we catch up on lost sleep, banana bread, and talk of time travel.  It's onwards to the next adventure as we take turns driving to Weaverville.  I hope the cooler ice keeps while we're gone.  How good is a frosty beer going to taste after a long hike?  Only time can tell.  
@@ -26,6 +28,6 @@ Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I 
 ~Reid
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDM0MTU3NCwxMDQ2MDc2Njc1LC0xNz
-E1MzYwODYzLC0xMDI1NTk1NTddfQ==
+eyJoaXN0b3J5IjpbNTQ4NjUxNjQwLDExNzQzNDE1NzQsMTA0Nj
+A3NjY3NSwtMTcxNTM2MDg2MywtMTAyNTU5NTU3XX0=
 -->
