@@ -18,13 +18,13 @@ Back in the car, we catch up on lost sleep, banana bread, and talk of time trave
 
 The next day we're not alone as we stop to fill up on water from Luella Lake.  Hundreds of ink black tadpoles wiggling their way through life dot the lakebed.  We've completed over half the 20 mile journey around the Four Lakes Loop in Shasta-Trinity National Forest and now making homeward progress.  There's another group of four swimming on the other shore.  The bravest reports to the others on water temperature. I for one don't want to step on our amphibious friends.  
 
-I do swim in Deer Lake, the next and final lake in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.  
+My withstraint is soon forgotten taking a dip in Deer Lake, the next and final lake in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.  
 
 Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I know it's against the law to drink while driving but I'm still not back to civilization's rules.  Sierra wants to stay another day but we're both ready for a shower. As she puts it "We smell like pee".  Monday comes sooner than I can unpack.  The weekend is a blur and a sunburn and I'd do it all again in a heartbeat. At work, coworkers recount the weekend's events.  One thing's for sure, I'd rather be outside than caught up on the latest Netflix binge.
 
 ~Reid
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMjM3NjQ4LC0xNzE1MzYwODYzLC0xMD
-I1NTk1NTddfQ==
+eyJoaXN0b3J5IjpbLTEzNDMzNTc0NTAsLTE3MTUzNjA4NjMsLT
+EwMjU1OTU1N119
 -->
