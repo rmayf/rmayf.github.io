@@ -16,6 +16,8 @@ We race the sun up 2 miles from Castle Lake to Heart Lake.  The trail is well tr
 
 There are a few tents setup around the lake so we don't say much. The camera shutter clicks in short bursts.  A deer materializes out of the nearby brush and is surprised when it notices us; as if it wasn't expecting anyone else to be awake.  It poses for a few shots and carries on foraging for breakfast. I find a luffa discarded on the lake shore and ponder the morality of mankind.
 
+![alt text]
+
 Back in the car, we catch up on lost sleep, banana bread, and talk of time travel.  It's onwards to the next adventure as we take turns driving to Weaverville.  I hope the cooler ice keeps while we're gone.  How good is a frosty beer going to taste after a long hike?  Only time can tell.  
 
 ---
@@ -27,8 +29,8 @@ Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I 
 
 ~Reid
 
-[shasta]: https://photos.app.goo.gl/Vv6MZ2krqt6HwrZN7 "Mt Shasta from Heart Lake"
+[shasta]: https://lh3.googleusercontent.com/BK3nLVp296nwMRSrZ9vZe4g-lf_WofIXGlgBbru6GTBSxvcXqK7Kxyy030JERSp4g4q6J17ic5vFRUWgskWNh2jpBUSNavJ9ILZbBkmXrQNQ5MTW5de_U-wXkRi4TIprh7xK7RinnKHKzw648SgLF5ABkFKuG24dZ0nN0qQTJOT3M7Ol8CFXYwgJoUb-H-ZkpRb8apmnTbEgbTmIaMHF3rke90rMWux0tdk1b0VhQCeXKIaRSky7A6e9odTyAeWCm48rnWwBzRN5fVJBs-tzkC_7OVTj_5pbikHh-6lf5mInlByZlfGP_AdOFobcd9eNMJ5kXQvp24vzccVuBeQRtuDIDj_si0E4m6fhZRwKOcXauC_WIfnLjERXK1yNj-XFebp5FmYZ8Hcbl2KeP8sVDDqV_tCWgIptrix630grmKgL9MCKkII7NoZBRy1-0A0SzYsX-hcV3jP-COisT3jlh9CFVBkjCB5FQ4dr0kRuEEva2RdHxKb5BzMKktX8WN6GnIghA981UOa6aaLUFKyxupoVWH90X0raHKO7WOhSVpqi_uBbI4EbXld2TxTrUdIMd_ZREbrS4HSWmMjaXs5hit8T2gAFWubeGfne9wl_gesSk1FJjD4xgyzzXOkJPQ2y6JhVu2is4517ei7iLd0qw7rFmZtug-vmBJ1hs3qdCmN7vGAsoqpUZSYtUq4L=w2238-h1492-no?authuser=0 "Mt Shasta from Heart Lake"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjM4Nzc1MiwxMTc0MzQxNTc0LDEwND
+eyJoaXN0b3J5IjpbLTI3OTA4MDA1MSwxMTc0MzQxNTc0LDEwND
 YwNzY2NzUsLTE3MTUzNjA4NjMsLTEwMjU1OTU1N119
 -->
