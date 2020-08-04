@@ -27,8 +27,8 @@ Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I 
 
 ~Reid
 
-[shasta]: https://photos.app.goo.gl/mygtuwiJQfNUwb4W8 "Mt Shasta from Heart Lake"
+[shasta]: https://photos.app.goo.gl/Vv6MZ2krqt6HwrZN7 "Mt Shasta from Heart Lake"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTE1MDQ3NywxMTc0MzQxNTc0LDEwND
+eyJoaXN0b3J5IjpbMTE4NjM4Nzc1MiwxMTc0MzQxNTc0LDEwND
 YwNzY2NzUsLTE3MTUzNjA4NjMsLTEwMjU1OTU1N119
 -->
