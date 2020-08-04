@@ -16,6 +16,7 @@ There are a few tents setup around the lake so we don't say much. The camera shu
 
 Back in the car, we catch up on lost sleep, banana bread, and talk of time travel.  It's onwards to the next adventure as we take turns driving to Weaverville.  I hope the cooler ice keeps while we're gone.  How good is a frosty beer going to taste after a long hike?  Only time can tell.  
 
+---
 The next day we're not alone as we stop to fill up on water from Luella Lake.  Hundreds of ink black tadpoles wiggling their way through life dot the lakebed.  We've completed over half the 20 mile journey around the Four Lakes Loop in Shasta-Trinity National Forest and now making homeward progress.  There's another group of four swimming on the other shore.  The bravest reports to the others on water temperature. I for one don't want to step on our amphibious friends.  
 
 My pacifism is quickly overruled and I can't help but take a dip in Deer Lake, the next and final lake in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.  
@@ -25,6 +26,6 @@ Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I 
 ~Reid
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIyOTk0NzksMTA0NjA3NjY3NSwtMT
-cxNTM2MDg2MywtMTAyNTU5NTU3XX0=
+eyJoaXN0b3J5IjpbMTE3NDM0MTU3NCwxMDQ2MDc2Njc1LC0xNz
+E1MzYwODYzLC0xMDI1NTk1NTddfQ==
 -->
