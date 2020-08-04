@@ -13,14 +13,17 @@ It's a short, uncomfortable night crumpled in the back of the CR-V. I'm obliviou
 We race the sun up 2 miles from Castle Lake to Heart Lake.  The trail is well traveled but splinters into parallel side routes.  A few wrong turns but we make it in time. Sierra goes to work scoping out the location and unfurling her tripod. Bugs flit along the lake surface, rippling communication in some language I don't understand.  Shasta, the second monolith of the Cascades, bathed in pink light of the new day.  Big thoughts for a big mountain.
 
 There are a few tents setup around the lake so we don't say much. The camera shutter clicks in short bursts.  A deer materializes out of the nearby brush and is surprised when it notices us; as if it wasn't expecting anyone else to be awake.  It poses for a few shots and carries on foraging for breakfast. I find a luffa discarded on the lake shore and ponder the morality of mankind.
-	Back in the car, we catch up on lost sleep, banana bread, and talk of time travel.  It's onwards to the next adventure, we take turns driving to Weaverville.  I hope the cooler ice keeps while we're gone.  How good is a frosty beer going to taste after a long hike?  Only time can tell.
-	The next day we're not alone as we stop to fill up on water from Luella Lake.  Hundreds of ink black tadpoles wiggling their way through life dot the lakebed.  We've completed over half the 20 mile journey around the Four Lakes Loop in Shasta-Trinity National Forest and now making homeward progress.  There's another group of four swimming on the other shore.  The bravest reports to the others on water temperature. I don't want to step on our amphibious friends.
-	I do swim in Deer Lake, the next and final lake in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.
-	Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I know it's against the law to drink while driving but I'm still not back to civilization's rules.  Sierra wants to stay another day but we're both ready for a shower. As she puts it "We smell like pee".
-	Monday comes sooner than I can unpack.  The weekend is a blur and a sunburn and I'd do it all again in a heartbeat. At work, coworkers recount the weekend's events.  One thing's for sure, I'd rather be outside than caught up on the latest Netflix binge.
+
+Back in the car, we catch up on lost sleep, banana bread, and talk of time travel.  It's onwards to the next adventure, we take turns driving to Weaverville.  I hope the cooler ice keeps while we're gone.  How good is a frosty beer going to taste after a long hike?  Only time can tell.
+
+The next day we're not alone as we stop to fill up on water from Luella Lake.  Hundreds of ink black tadpoles wiggling their way through life dot the lakebed.  We've completed over half the 20 mile journey around the Four Lakes Loop in Shasta-Trinity National Forest and now making homeward progress.  There's another group of four swimming on the other shore.  The bravest reports to the others on water temperature. I don't want to step on our amphibious friends.
+
+I do swim in Deer Lake, the next and final lake in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.
+
+Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I know it's against the law to drink while driving but I'm still not back to civilization's rules.  Sierra wants to stay another day but we're both ready for a shower. As she puts it "We smell like pee".  Monday comes sooner than I can unpack.  The weekend is a blur and a sunburn and I'd do it all again in a heartbeat. At work, coworkers recount the weekend's events.  One thing's for sure, I'd rather be outside than caught up on the latest Netflix binge.
 
 ~Reid
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzE3MzEyOSwtMTAyNTU5NTU3XX0=
+eyJoaXN0b3J5IjpbMzI0NzgzOTA1LC0xMDI1NTk1NTddfQ==
 -->
