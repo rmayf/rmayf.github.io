@@ -20,11 +20,11 @@ The next day we're not alone as we stop to fill up on water from Luella Lake.  H
 
 My pacifism is quickly overruled and I can't help but take a dip in Deer Lake, the next and final lake in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.  
 
-Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I know it's against the law to drink while driving but I'm still not back to civilization's rules.  Sierra wants to stay another day but we're both ready for a shower. As she puts it "We smell like pee".  Monday comes sooner than I can unpack.  The weekend is a blur and a sunburn and I'd do it all again in a heartbeat. At work, coworkers recount the weekend's events.  One thing's for sure, I'd rather be outside than caught up on the latest Netflix binge.
+Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I know it's against the law to drink while driving but I'm still not back under civilization's rules.  Sierra wants to stay another day but we're both ready for a shower. As she puts it "We smell like pee".  Monday comes sooner than I can unpack.  The weekend is a blur and a sunburn and I'd do it all again in a heartbeat. At the office, coworkers recount the weekend's events.  One thing's for sure, I'd rather be outside than caught up on the latest Netflix binge.
 
 ~Reid
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NDc2NzU4LC0xNzE1MzYwODYzLC0xMD
-I1NTk1NTddfQ==
+eyJoaXN0b3J5IjpbMTA0NjA3NjY3NSwtMTcxNTM2MDg2MywtMT
+AyNTU5NTU3XX0=
 -->
