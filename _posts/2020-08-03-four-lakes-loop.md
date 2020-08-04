@@ -12,13 +12,11 @@ It's a short, uncomfortable night crumpled in the back of the CR-V. I'm obliviou
 
 We race the sun up 2 miles from Castle Lake to Heart Lake.  The trail is well traveled but splinters into parallel side routes.  A few wrong turns but we make it in time. Sierra goes to work scoping out the location and unfurling her tripod. Bugs flit along the lake surface, rippling communication in some language I don't understand.  Shasta, the second monolith of the Cascades, bathed in pink light of the new day.  Big thoughts for a big mountain.
 
-![alt text][shasta]
-
 There are a few tents setup around the lake so we don't say much. The camera shutter clicks in short bursts.  A deer materializes out of the nearby brush and is surprised when it notices us; as if it wasn't expecting anyone else to be awake.  It poses for a few shots and carries on foraging for breakfast. I find a luffa discarded on the lake shore and ponder the morality of mankind.
 
-![alt text1][deer]
-
 Back in the car, we catch up on lost sleep, banana bread, and talk of time travel.  It's onwards to the next adventure as we take turns driving to Weaverville.  I hope the cooler ice keeps while we're gone.  How good is a frosty beer going to taste after a long hike?  Only time can tell.  
+
+![alt text1][deer]
 
 ---
 
@@ -38,6 +36,6 @@ Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I 
 
 [deer lake]: https://lh3.googleusercontent.com/4FPVZljs56u9qEe3KJ90cgj3COWahVkkuWNSSrSCyQ764vXQCFPHrmbm7PE009e_479SwbV5Ovebs72ibLdbU7uGYTx1ahIGuuNMAYAhnxbivYUvoUwrUD7JYjnZMs24WVC8yUP2LjBZrwubXbOn1x5EcGjQAQvPkw9NQXSS8E6kjMxszOxtnoyvGBzr3iADhB5gH0MC5FdaGSnPASms3PTLdhSUY7u2rdw0zSP-3yqExzZ_HwxiIRVxm5mjtyvb3CMeBKusHl_Jpkh39wkHLieIWTdDQHzIqhSH_m5gXvbVEWBCz7kIJsMi3DfcBLe8uKIeOlzRcqt6oRo6bnVd6JRIdYbShcdXOSU-uk-h7lV-HhhToFjdMD26V_f6zikA4XiLIpK5hJusBKB441iAfaBBtM5_3mf2qc3mgdh9peLgY8qt6NqCsEnxeQlcFA2K1hZY5RzDXIP--0C_0SzjCAcKzQC_ETud5lL4y9enQWyMcMj9AvfX58DhyYp4fPKst7ugxPlFgpdYOPEvuS0BcJfJVmb23WwbUsXGyIIi3sHBHRKsFDR5kle3cqAen9sh22JN5_KbMpNb1LX46qEx_g13VVZ8Sqqns0s84PGeXnqiTYbznImW6WQjF9w_uJFWMatvyx41AIAwurnAubEbx71jOFIybr0_j-Vk7VxjbK-n7E_40glJG6RsqrNn=w1990-h1492-no?authuser=0 "Deer Lake"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTAyMjYzLDExNzQzNDE1NzQsMTA0Nj
-A3NjY3NSwtMTcxNTM2MDg2MywtMTAyNTU5NTU3XX0=
+eyJoaXN0b3J5IjpbMTM3NTc5NTI2MCwxMTc0MzQxNTc0LDEwND
+YwNzY2NzUsLTE3MTUzNjA4NjMsLTEwMjU1OTU1N119
 -->
