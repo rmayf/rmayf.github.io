@@ -7,8 +7,12 @@ categories: jekyll update
 --- 
 
 ---
+
 ![alt text1][deer]
 ![alt text][shasta]
+![alt text2][deer lake]
+
+---
 
  It's late, later than it should be. We're the only car winding our way up the snaking backcountry road just outside the town of Shasta.  The original plan was to arrive earlier but a delayed departure and taco detour slipped the itenerary.  After a blasé drive through "no man's land" central California, both Sierra and I are eager to climb into our bags.  The highbeams barely penetrate the peripheral darkness as we swing past bends in the road.  Shadows and chaparral distort into mountain lions only to change back in the blink of an eye.
 
@@ -26,9 +30,9 @@ The next day we're not alone as we stop to fill up on water from Luella Lake.  H
 
 My pacifism is quickly overruled and I can't help but take a dip in Deer Lake, the next and final lake in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.  
 
-![alt text2][deer lake]
+Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I know it's against the law to drink while driving but I'm still not back under civilization's rules.  Sierra wants to stay another day but we're both ready for a shower. As she puts it "We smell like pee".  
 
-Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I know it's against the law to drink while driving but I'm still not back under civilization's rules.  Sierra wants to stay another day but we're both ready for a shower. As she puts it "We smell like pee".  Monday comes sooner than I can unpack.  The weekend is a blur and a sunburn and I'd do it all again in a heartbeat. At the office, coworkers recount the weekend's events.  One thing's for sure, I'd rather be outside than caught up on the latest Netflix binge.
+Monday comes sooner than I can unpack.  The weekend is a blur and a sunburn and I'd do it all again in a heartbeat. At the office, coworkers recount the weekend's events.  One thing's for sure, I'd rather be outside than caught up on the latest Netflix binge.
 
 ~Reid
 
@@ -38,6 +42,6 @@ Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I 
 
 [deer lake]: https://lh3.googleusercontent.com/4FPVZljs56u9qEe3KJ90cgj3COWahVkkuWNSSrSCyQ764vXQCFPHrmbm7PE009e_479SwbV5Ovebs72ibLdbU7uGYTx1ahIGuuNMAYAhnxbivYUvoUwrUD7JYjnZMs24WVC8yUP2LjBZrwubXbOn1x5EcGjQAQvPkw9NQXSS8E6kjMxszOxtnoyvGBzr3iADhB5gH0MC5FdaGSnPASms3PTLdhSUY7u2rdw0zSP-3yqExzZ_HwxiIRVxm5mjtyvb3CMeBKusHl_Jpkh39wkHLieIWTdDQHzIqhSH_m5gXvbVEWBCz7kIJsMi3DfcBLe8uKIeOlzRcqt6oRo6bnVd6JRIdYbShcdXOSU-uk-h7lV-HhhToFjdMD26V_f6zikA4XiLIpK5hJusBKB441iAfaBBtM5_3mf2qc3mgdh9peLgY8qt6NqCsEnxeQlcFA2K1hZY5RzDXIP--0C_0SzjCAcKzQC_ETud5lL4y9enQWyMcMj9AvfX58DhyYp4fPKst7ugxPlFgpdYOPEvuS0BcJfJVmb23WwbUsXGyIIi3sHBHRKsFDR5kle3cqAen9sh22JN5_KbMpNb1LX46qEx_g13VVZ8Sqqns0s84PGeXnqiTYbznImW6WQjF9w_uJFWMatvyx41AIAwurnAubEbx71jOFIybr0_j-Vk7VxjbK-n7E_40glJG6RsqrNn=w1990-h1492-no?authuser=0 "Deer Lake"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTAxNzg5MiwxMTc0MzQxNTc0LDEwND
-YwNzY2NzUsLTE3MTUzNjA4NjMsLTEwMjU1OTU1N119
+eyJoaXN0b3J5IjpbNjMyMjY3MTk5LDExNzQzNDE1NzQsMTA0Nj
+A3NjY3NSwtMTcxNTM2MDg2MywtMTAyNTU5NTU3XX0=
 -->
