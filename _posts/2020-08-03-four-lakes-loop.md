@@ -12,7 +12,7 @@ It's a short, uncomfortable night crumpled in the back of the CR-V. I'm obliviou
 
 We race the sun up 2 miles from Castle Lake to Heart Lake.  The trail is well traveled but splinters into parallel side routes.  A few wrong turns but we make it in time. Sierra goes to work scoping out the location and unfurling her tripod. Bugs flit along the lake surface, rippling communication in some language I don't understand.  Shasta, the second monolith of the Cascades, bathed in pink light of the new day.  Big thoughts for a big mountain.
 
-![alt text][shasta]
+![][shasta]
 
 There are a few tents setup around the lake so we don't say much. The camera shutter clicks in short bursts.  A deer materializes out of the nearby brush and is surprised when it notices us; as if it wasn't expecting anyone else to be awake.  It poses for a few shots and carries on foraging for breakfast. I find a luffa discarded on the lake shore and ponder the morality of mankind.
 
@@ -29,6 +29,6 @@ Back in the car, the beer's not as cold as I'd like but tastes good anyways.  I 
 
 [shasta]: https://photos.app.goo.gl/mygtuwiJQfNUwb4W8 "Mt Shasta from Heart Lake"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTE1MDQ3NywxMTc0MzQxNTc0LDEwND
-YwNzY2NzUsLTE3MTUzNjA4NjMsLTEwMjU1OTU1N119
+eyJoaXN0b3J5IjpbLTEwMTE1ODYyNDksMTE3NDM0MTU3NCwxMD
+Q2MDc2Njc1LC0xNzE1MzYwODYzLC0xMDI1NTk1NTddfQ==
 -->
