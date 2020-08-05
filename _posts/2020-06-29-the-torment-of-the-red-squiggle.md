@@ -11,14 +11,13 @@ I've also becoming increasing aware of the intrusion of spell check as a detrime
 
 It's distracting to have a red squiggle appear under a word, even if it's mispelled, because it's not relevant at the time of it being written.  I like to go back AFTER I'm done writing and fix my typos. During the process, spell check is a hamper on my writing "flow".  My brain fixates on the red squiggle, nagging me to fix it, to free it from it's imortal prison so it can disappear back into the ether from whence it came. I'm unable to continue, an invisible force beckons me to go back and fix it, which knocks me out of my train of thought and makes it really hard to write anything of value.  
 
-If you're like me and get distracted easily, then try disabling your spell checker during your "flow" section of your writing process. Just write.  Get the thoughts out of your brain onto the page.  It doesn't have to be pretty or well formatted or make sense or be spelled correctly, it just has to be out of your head and on the paper.  Then later go back and edit it so it reads well and makes sense and doesn't have any spelling errors, you'll be surprised at just how much more you can get done with this technique.
+If you're like me and get distracted easily, then try disabling your spell checker during your "flow" section of your writing process. Just write.  Get the thoughts out of your brain onto the page.  It doesn't have to be pretty or well formatted or make sense, or be spelled correctly, it just has to be out of your head and on the paper.  Then later go back and edit it so it reads well and makes sense and doesn't have any spelling errors. You'll be surprised at just how much more you can get done with this technique.
 
-I've figured out how to disable spell check for my setup so you don't have to.  I use StackEdit to write my blog posts, which is great because it already has most of what I want.  The spell check is not actually not a StackEdit feature but a Chrome feature (because StackEdit is a chrome app), so it's as simple as disabling it from your chrome [settings](chrome://settings/languages). Expand the `Advanced` tab at the bottom, and toggle off `Spell check`.  Bingo, bango, bongo, the red squiggly is no more! Hurrah, you can write without feeling like your brain is going to explode from watching the red squiggly flash with every new character you type. Now you have no excuse not to become the next Hemmingway.
-
+I've figured out how to disable spell check for my setup so you don't have to.  I use StackEdit to write my blog posts, which is great because it already does most of what I want (and it's free).  The spell check is not actually a StackEdit feature but a Chrome feature (because StackEdit is a chrome app), so it's as simple as disabling it from your chrome [settings](chrome://settings/languages). Expand the `Advanced` tab at the bottom, and toggle off `Spell check`.  Bingo, bango, bongo, the red squiggly is no more! Hurrah, you can write without feeling like your brain is going to explode from watching the red squiggly flash with every new character you type. Now you have no excuse not to become the next Hemmingway.
 
 ~Reid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQxODM1MzgsMTE4NDI0NzY3OSwtMT
+eyJoaXN0b3J5IjpbLTE0MDE3MTczNDksMTE4NDI0NzY3OSwtMT
 kyMjA5MDc0NiwtMTkyMjA5MDc0NiwtODE2Nzk3NzMwLC01MDI4
 NjI1NDhdfQ==
 -->
