@@ -21,8 +21,7 @@
 title: Five to Nine
 email: rmayf3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   Musings of a slightly erratic, often under represented, wayfarer
-   technocrat.
+   Musings on life and computing from a laid-back, wayfarer technocrat
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "rmayf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rmayf
