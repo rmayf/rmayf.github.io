@@ -22,6 +22,8 @@ There are a few tents setup around the lake so we don't say much. The camera shu
 ---
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1GJgnWOXXhzQR_BETmO9C3idR_7gQsWy0" width="640" height="480"></iframe>
 
+---
+
 The next day we're not alone as we stop to fill up on water from Luella Lake.  Hundreds of ink black tadpoles wiggling their way through life dot the lakebed.  We've completed over half the 20 mile journey around the Four Lakes Loop in Shasta-Trinity National Forest and are now making homeward progress.  There's another group of four swimming on the other shore.  The bravest reports to the others on water temperature. I for one don't want to step on our amphibious friends.  
 
 My pacifism is quickly overruled and I can't help but take a dip in Deer Lake, the next and final swimming option in the loop.  Laying on the shore drying, an overly curious Chipmunk peers inside my backpack.  He's unfazed by my attempts to shoo him away and instead starts a game of hide-n-seek.  He seems friendly but is probably only interested in the salami chunks we're having for lunch.  
@@ -38,7 +40,7 @@ Monday comes sooner than I can unpack.  The weekend's a blur and a sunburn and I
 
 [deer lake]: https://lh3.googleusercontent.com/4FPVZljs56u9qEe3KJ90cgj3COWahVkkuWNSSrSCyQ764vXQCFPHrmbm7PE009e_479SwbV5Ovebs72ibLdbU7uGYTx1ahIGuuNMAYAhnxbivYUvoUwrUD7JYjnZMs24WVC8yUP2LjBZrwubXbOn1x5EcGjQAQvPkw9NQXSS8E6kjMxszOxtnoyvGBzr3iADhB5gH0MC5FdaGSnPASms3PTLdhSUY7u2rdw0zSP-3yqExzZ_HwxiIRVxm5mjtyvb3CMeBKusHl_Jpkh39wkHLieIWTdDQHzIqhSH_m5gXvbVEWBCz7kIJsMi3DfcBLe8uKIeOlzRcqt6oRo6bnVd6JRIdYbShcdXOSU-uk-h7lV-HhhToFjdMD26V_f6zikA4XiLIpK5hJusBKB441iAfaBBtM5_3mf2qc3mgdh9peLgY8qt6NqCsEnxeQlcFA2K1hZY5RzDXIP--0C_0SzjCAcKzQC_ETud5lL4y9enQWyMcMj9AvfX58DhyYp4fPKst7ugxPlFgpdYOPEvuS0BcJfJVmb23WwbUsXGyIIi3sHBHRKsFDR5kle3cqAen9sh22JN5_KbMpNb1LX46qEx_g13VVZ8Sqqns0s84PGeXnqiTYbznImW6WQjF9w_uJFWMatvyx41AIAwurnAubEbx71jOFIybr0_j-Vk7VxjbK-n7E_40glJG6RsqrNn=w1990-h1492-no?authuser=0 "Deer Lake"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MDIyMjU1LC04NTc3ODU5ODYsLTc3Nz
+eyJoaXN0b3J5IjpbMzM2NDc4MzgyLC04NTc3ODU5ODYsLTc3Nz
 U1MjQwNCwtNTgyMjM2OTI2LDM1Njg3NjEsLTIwODc0MjQwNDAs
 MzU2ODc2MSwxOTg0MTUxNjI4LDExNzQzNDE1NzQsMTA0NjA3Nj
 Y3NSwtMTcxNTM2MDg2MywtMTAyNTU5NTU3XX0=
