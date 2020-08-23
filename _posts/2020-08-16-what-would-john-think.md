@@ -11,3 +11,6 @@ categories: jekyll update
 <p>The real photographers have an unspoken etiquette about giving each other ample space and staying out of each other frames.  The hooligans who arrive after sunset’s already begun have no such moral code. The buffer space around timelapsing cameras and tripod stations is slowly encroached in a game of “who can get closer to the edge for the best shot”.  Tempers flair in silent outrage at the violations, and the hooligans win a war they don’t even know is being fought.  The phone call taker cuts the their speaker short, “So I’m like in Yosemite right now and the sunset just got really pretty so I have to go.” Maybe there’s hope for humanity after all.</p>
 <p>~Reid</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAwNTAzMDYwXX0=
+-->
