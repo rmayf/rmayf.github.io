@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Four Lakes Loop"
-date:   2020-08-03
+title:  "What Would John Think"
+date:   2020-08-16
 status: WIP
 categories: jekyll update
 --- 
