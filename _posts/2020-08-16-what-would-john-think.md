@@ -7,6 +7,7 @@ categories: jekyll update
 --- 
 
 ![Tis-sa-ack at sunset][Tis-sa-ack]
+![ultralight pour-over][coffee]
 
 ---
 
@@ -19,7 +20,9 @@ The real photographers have an unspoken etiquette about giving each other ample 
 ~Reid
 
 [Tis-sa-ack]: https://lh3.googleusercontent.com/xu7tPdRgKmwNmOn_EbDZgGYTwHmqNtbXVmsJtsXFSQu68GlBxTuJOnaYDGSKm7qHt7lK4uGo6vhiHxSNSVZiD7nHOujzCNbItvtwl6_AO4__QVxWvnEIPQOXBi-HH4pVKxCnupCEQQ=w2400 "Tis sa ack"
+
+[coffee]:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4MTE4NzcwLDE2NDk5OTM5MTcsLTQ3MT
-g0NTYxNSwxMTU4Njk1ODg5XX0=
+eyJoaXN0b3J5IjpbMTg0MzYxMDQ3NiwxNjQ5OTkzOTE3LC00Nz
+E4NDU2MTUsMTE1ODY5NTg4OV19
 -->
