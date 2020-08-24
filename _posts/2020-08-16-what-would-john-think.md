@@ -21,8 +21,8 @@ The real photographers have an unspoken etiquette about giving each other ample 
 
 [Tis-sa-ack]: https://lh3.googleusercontent.com/xu7tPdRgKmwNmOn_EbDZgGYTwHmqNtbXVmsJtsXFSQu68GlBxTuJOnaYDGSKm7qHt7lK4uGo6vhiHxSNSVZiD7nHOujzCNbItvtwl6_AO4__QVxWvnEIPQOXBi-HH4pVKxCnupCEQQ=w2400 "Tis sa ack"
 
-[coffee]:
+[coffee]:https://lh3.googleusercontent.com/jGEveYDtdg-jCNDLCUROEbe-h05jZERP-P1vQxDz48t9WwWdVbYLsY3trfCagiVtfO7yc4FYlQD0nNPmBrrgV2is5lp1WuetnQJpGrO186LcTl7oeGwhOTMk_8G8Dxqa-FhKSy6ztQ=w2400
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzYxMDQ3NiwxNjQ5OTkzOTE3LC00Nz
-E4NDU2MTUsMTE1ODY5NTg4OV19
+eyJoaXN0b3J5IjpbMTQ3MTc3ODMzOCwxODQzNjEwNDc2LDE2ND
+k5OTM5MTcsLTQ3MTg0NTYxNSwxMTU4Njk1ODg5XX0=
 -->
