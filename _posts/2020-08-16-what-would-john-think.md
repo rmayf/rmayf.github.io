@@ -6,6 +6,10 @@ status: WIP
 categories: jekyll update
 --- 
 
+![Tis-sa-ack at sunset][Tis-sa-ack]
+
+---
+
 I’m an odd sight to the other photographers in the line-up at Glaicer Point overlook in Yosemite National Park. The day’s finally cooling off but warm wind rushes up from below. A stubborn reminder of the 100 degree blaze endured alike by all the valley patrons that day.  The noise from my coffee grinder attracts attention as I turn the crank in preparation for the ultralight pour-over perched atop my Smoky the Bear enamel cup. They’ll have to excuse the disturbance, it’s Sunday, we have to return home this evening and I’m on driving duty.  The caffeine is a necessity.  Sierra’s right at home among the shutter nerds, attaching lenses and adjusting aperatures. I love watching her in her element.
 
 Tis-sa-ack is the most iconic piece of rock on planet Earth and tonight it’s drawn a crowd. Noone’s looking at the momument like I am, unobstructed through a lenses or behind an LCD.  Faint indications streaking down from the peak, chiseled by millions of years of rain-fed rivulets.  Patchwork gray granite flakes crafted by Thor’s own hammer, or maybe it was just a glacier instead. Here is Mother Nature’s finest work out on display, and yet the crowd is hunched over, faces aglow from blue screens.  Our species is so incredibly fucked.  Consumed by our own undoing, and yet lovingly embracing the cold hand encircling our throats. The sky lights up with an ever changing color palette of pink and blue.  Someone takes a call, sounds like an important one about motorcycle parts.
@@ -14,6 +18,8 @@ The real photographers have an unspoken etiquette about giving each other ample 
 
 ~Reid
 
+[Tis-sa-ack]: https://lh3.googleusercontent.com/xu7tPdRgKmwNmOn_EbDZgGYTwHmqNtbXVmsJtsXFSQu68GlBxTuJOnaYDGSKm7qHt7lK4uGo6vhiHxSNSVZiD7nHOujzCNbItvtwl6_AO4__QVxWvnEIPQOXBi-HH4pVKxCnupCEQQ=w2400 "Tis sa ack"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTg0NTYxNSwxMTU4Njk1ODg5XX0=
+eyJoaXN0b3J5IjpbMTY0OTk5MzkxNywtNDcxODQ1NjE1LDExNT
+g2OTU4ODldfQ==
 -->
