@@ -11,9 +11,9 @@ I'm from Seattle, Washington.  Well not *Seattle* Seattle.  No one's from Seattl
 
 When I'm not sleeping in a tent on the ground (for fun), I'm staring at a screen.  I'm a lead software engineer at [Arista Networks](https://www.arista.com/en/) building the world's most resilient enterprise networking equipment.  Although Arista is a great place to work, I have a love-hate relationship with software and technology in general.  I hate being sedentary for long periods of time but love problem solving and building things.  Some of my more interesting side projects are building a [3D printer from scratch](https://github.com/rmayf/3d) and writing a [photo sharing web app](https://github.com/rmayf/PhotoGallery) for my brother in a single night.  In the future, I hope to use my software expertise to build something that makes people's lives better.  If you know of any interesting opportunities, please don't hesitate to [let me know](email:rmayf3@gmail.com) about them!
 
-To see what I'm up to now, check out my [Now Page](now)
+To see what I'm up to now, check out my [Now Page](/now)
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMjE2OTQsMTAzMTMzNjg3OSwtMTUwND
-AwMDkxMSw2NzEwNjU2NDksLTQ4NDA3MjIwOF19
+eyJoaXN0b3J5IjpbMTM4NDg5OTY1LDEwMzEzMzY4NzksLTE1MD
+QwMDA5MTEsNjcxMDY1NjQ5LC00ODQwNzIyMDhdfQ==
 -->
