@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What I'm doing now
+title: Now
 permalink: /now/
 ---
 
@@ -15,5 +15,5 @@ My sister is pregnant!  This is my first foray into being an uncle.  Wonder if I
 Updated September 8th, 2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk1NjM0MF19
+eyJoaXN0b3J5IjpbMjEzODU1NDE1NCwtMTM1OTU2MzQwXX0=
 -->
