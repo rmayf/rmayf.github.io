@@ -4,16 +4,15 @@ title: Now
 permalink: /now/
 ---
 
-I'm on an extended trip to San Diego with my girlfriend [Sierra](https://somewheresierra.com/index.php/aboutme/).  We wanted to take advantage of working remotely and I'm fulfilling my life long dream of becoming a grom.   While we still live in Santa Clara, we're both interested in moving down here in the near future.
+We were back up in Washington for 2 weeks for my Cousin's wedding.  It was a whirlwind trip where we did so much and yet didn't have time for everything.  Sierra's brother has moved back home (into her room) so we both stayed with my parents.  We also made a weekend trip down to Long Beach for a clam tide.  It was rainy but warm and the clams were plentiful!  We're now on the way back down to the Bay Area because our plants need water and we're both tired of living out of a suitcase.
 
- I've been fixated on staying hydrated and aim to drink 4L of water daily.  Phone, keys, wallet, (facemask, ) and water sack are always on my person.  I've been getting better sleep on account of the hydration; now waking up isn't so painful.  Never thought I'd see the day where I'm awake before 10am without an alarm.
+I finally finished interviewing with Facebook.  It only tooks 6 months for them to reject me.  Big tech companies have the most fucked up interview process imaginable.  I hope someone or something comes along one day and changes technical interviews for the better, but I just don't see that happening anytime soon.  Oh well, back to the drawing board, I didn't even really want to work there anyways *salty face*.
 
-I've started [bullet journaling](https://bulletjournal.com/).  This practice helps me find mental clarity and stay focused throughout the day.  I feel like I've been getting more done while being less stressed about my work-life.
+We're looking for a new place to live.  Sierra and I are both eager to have our own space and try living somewhere new.  Although Santa Clara has been my home now for 6 years, I've never really been sold on this area for the long term.  We're currently focused on Santa Cruz to be closer to the beach and so I can chase my dreams of being a surfer bum.  The rent is too damn high there due to the mas exodus of tech workers with recently aquired remote work freedom.
 
-My sister is pregnant!  This is my first foray into being an uncle.  Wonder if I'll be the "cool uncle" 🤔.
-
-Updated September 8th, 2020
+Updated October 18th, 2020
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODU1NDE1NCwtMTM1OTU2MzQwXX0=
+eyJoaXN0b3J5IjpbMTk2MDYxMjQ1MCwyMTM4NTU0MTU0LC0xMz
+U5NTYzNDBdfQ==
 -->
